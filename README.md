@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi, I'm Bryan 👋🏽 👨🏽‍💻
 
-<!--
-**bflopez/bflopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineer with over 10 years of experience desiging and building software. In my professional career I have built and launched mobile apps, backend systems, and APIs. I have also contributed to open source and have extensive experience building front-end applications. I am highly passionate about code quality, staying up-to-date with modern trends and technologies, and mentoring others.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Python and taking the [Meta Back End Engineering course](https://www.coursera.org/professional-certificates/meta-back-end-developer)  on Coursera.
+- 🔭 I’m currently working on new ideas for a SaaS product.
+- 🎨 UI Design Enthusiast
+- 🩹 Mental Health Advocate
+- 🍳 Breakfast Food Addict
+- 🎮 Gamer
+- ⛰️ Denver, CO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Find me online
+- [LinkedIn](https://www.linkedin.com/in/bflopez89/)
+- [Twitch](https://www.twitch.tv/bfl_dev)
+- [Twitter](https://twitter.com/bfl_dev)
