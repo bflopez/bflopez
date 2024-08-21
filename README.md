@@ -1,8 +1,7 @@
 # Hi, I'm Bryan 👋🏽 👨🏽‍💻
 
-I am a Software Engineer with over 10 years of experience desiging and building software. In my professional career I have built and launched mobile apps, backend systems, and APIs. I have also contributed to open source and have extensive experience building front-end applications. I am highly passionate about code quality, staying up-to-date with modern trends and technologies, and mentoring others.
+I am a Software Engineer with over a decade of experience desiging and building software. In my professional career I have built and launched mobile apps, front end applications, back end systems and APIs. I have also contributed to open source and have extensive experience building front-end applications. I am highly passionate about code quality, staying up-to-date with modern trends and technologies, and mentoring others.
 
-- 🌱 I’m currently learning Python and taking the [Meta Back End Engineering course](https://www.coursera.org/professional-certificates/meta-back-end-developer)  on Coursera.
 - 🔭 I’m currently working on new ideas for a SaaS product.
 - 🎨 UI Design Enthusiast
 - 🩹 Mental Health Advocate
